@@ -20,3 +20,5 @@ O sistema deve manter um log das ações realizadas pelo usuário, como datas de
 
 ### RF07 — Notificações do sistema
 O sistema deve enviar alertas ao usuário sobre eventos relevantes, como confirmação de cadastro ou atualizações de segurança.
+
+### RF0N - E ASSIM VAI...
